@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/hassaneldesouky/Data/Development/CLion/College Work/ComputerSecurity/SubstitutionCipher.h
+string
+-
+map
+-
+vector
+-
+
+/Users/hassaneldesouky/Data/Development/CLion/College Work/ComputerSecurity/main.cpp
+iostream
+-
+memory
+-
+SubstitutionCipher.h
+/Users/hassaneldesouky/Data/Development/CLion/College Work/ComputerSecurity/SubstitutionCipher.h
+

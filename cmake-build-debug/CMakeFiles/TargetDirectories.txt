@@ -1,0 +1,3 @@
+/Users/hassaneldesouky/Data/Development/CLion/College Work/ComputerSecurity/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/hassaneldesouky/Data/Development/CLion/College Work/ComputerSecurity/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/hassaneldesouky/Data/Development/CLion/College Work/ComputerSecurity/cmake-build-debug/CMakeFiles/ComputerSecurity.dir
